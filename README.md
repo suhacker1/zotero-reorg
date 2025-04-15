@@ -1,6 +1,6 @@
 # Zotero Library Reorganizer
 
-A mostly vibe-coded to create topic-based collections in your Zotero library and assign papers to them while preserving the original folder structure.
+A mostly vibe-coded tool to create topic-based collections in your Zotero library and assign papers to them while preserving the original folder structure.
 
 USE AT YOUR OWN RISK.
 
