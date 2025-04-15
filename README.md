@@ -4,7 +4,9 @@ A mostly vibe-coded to create topic-based collections in your Zotero library and
 
 USE AT YOUR OWN RISK.
 
-I used Claude to actually generate research collections for me.
+## Generating Research Collections
+
+I used Claude with the Zotero MCP to actually generate research collections for me (I was bad at being consistent about tagging and organizing). I included portions of the prompts in `prompts.md`.
 
 
 ## Requirements
