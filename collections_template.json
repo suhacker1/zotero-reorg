@@ -1,0 +1,25 @@
+{
+    "collections": [
+        {
+            "name": "Category 1",
+            "papers": [
+                "PAPER1KEY",  # Paper Title 1
+                "PAPER2KEY"   # Paper Title 2
+            ]
+        },
+        {
+            "name": "Category 1/Subcategory 1",
+            "papers": [
+                "PAPER1KEY",  # Paper Title 1
+                "PAPER3KEY"   # Paper Title 3
+            ]
+        },
+        {
+            "name": "Category 2",
+            "papers": [
+                "PAPER4KEY",  # Paper Title 4
+                "PAPER5KEY"   # Paper Title 5
+            ]
+        }
+    ]
+} 
